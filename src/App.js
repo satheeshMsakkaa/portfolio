@@ -56,7 +56,7 @@ function App() {
 						<li><span className="first-block">Full Name:</span><span className="second-block">Satheeshkumar M</span></li>
 						<li><span className="first-block">Phone:</span><span className="second-block">+ 91 842X39X75X</span></li>
 						<li><span className="first-block">Email:</span><span className="second-block">share2satheesh@gmail	.com</span></li>
-						<li><span className="first-block">Website:</span><span className="second-block">https://satheeshmsakkaa.github.io/portfolio</span></li>
+						<li><span className="first-block">Website:</span><span className="second-block">satheeshmsakkaa.github.io/portfolio</span></li>
 						<li><span className="first-block">Address:</span><span className="second-block">xxx, Kelambakkam, Chengalpattu (Dist), 603103</span></li>
 					</ul>
 				</div>
